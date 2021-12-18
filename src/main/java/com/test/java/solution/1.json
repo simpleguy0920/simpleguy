@@ -1,0 +1,4792 @@
+{
+  "body": {
+    "errno": 0,
+    "error": "success",
+    "data": {
+      "total": 29035,
+      "pages": 291,
+      "page": 161,
+      "list": [
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201129808386\/O1CN0147Vfs82Boq0Fv15m6_!!2201129808386-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5364\u5473\u8089\u5e72",
+              "custom_cat_id": "154745285514507"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6903155002049",
+          "weight": "62",
+          "sku_id": 15875689302211069,
+          "sale_price": 1990,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1420191000101",
+          "name": "\u725b\u5934\u5364\u6c41\u725b\u7b4b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154745285514507",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201134412980\/O1CN01zwTjJr1Xsss7Ex5M8_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971699061174",
+          "weight": "160",
+          "sku_id": 15874525542239009,
+          "sale_price": 5900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3100208900101",
+          "name": "Vigo\u5f00\u5fc3\u732aTritan\u5851\u6599\u676f400ml \u718f\u8863\u7d2b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201134412980\/O1CN01tNm4D41Xssrm8gvbL_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u65b9\u4fbf\u901f\u98df",
+              "custom_cat_id": "153978369873813"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6900873026067",
+          "weight": "180",
+          "sku_id": 15397836135493777,
+          "sale_price": 500,
+          "process_detail": [],
+          "shelf_number": "14510143",
+          "upc_type": 0,
+          "custom_sku_id": "1451014300101",
+          "name": "\u5eb7\u5e08\u5085\u9999\u8fa3\u725b\u8089\u5e72\u62cc\u9762\u7897\u976297.5g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873813",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201115406636\/O1CN01r02mes1ytKtSE0S3e_!!2201115406636-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201103573802\/O1CN0175TXpC1dxMRY4xBuK_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201103573802\/O1CN019Gq3LU1dxMRTNfdZ8_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201081816976\/O1CN012vH3xw21P3YYyISZs_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201103573802\/O1CN01dnpKlu1dxMRazWOp5_!!2201103573802-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6587\u4f53\u7528\u54c1",
+              "custom_cat_id": "153978370073879"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6922711064123",
+          "weight": "255",
+          "sku_id": 15895406172245833,
+          "sale_price": 2490,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3254204700101",
+          "name": "\u5e7f\u535a12\u8ba2\u4e66\u673a\u5957\u88c5DSJ7222",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370073879",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201115406636\/O1CN019atOOw1ytKtUOD696_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6587\u4f53\u7528\u54c1",
+              "custom_cat_id": "153978370073879"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6950133351774",
+          "weight": "64",
+          "sku_id": 15895403922265965,
+          "sale_price": 1150,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3240197400101",
+          "name": "\u771f\u5f690.5mm\u4e2d\u6027\u7b14\u82af24\u652f\u88c5Y9922",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370073879",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01Qltvbj1vfBo2NaTKS_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206614268226\/O1CN01XjBObH2AdYdlYSlzs_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01YqsOjS1vfBoZROql7_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206745198050\/O1CN01Q5IJXe29KwvxvhTr7_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01iS2Anq1vfBobzcXkI_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6d17\u53d1\u62a4\u7406",
+              "custom_cat_id": "153978369873837"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6927006132648",
+          "weight": "550",
+          "sku_id": 158684340722351,
+          "sale_price": 8800,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1220133800101",
+          "name": "\u4e09\u751f\u82b1\u7cbe\u6cb9\u9999\u6c1b\u6d17\u53d1\u9732\uff08\u6ecb\u517b\u4fee\u62a4\uff09",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 5,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873837",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN015vFEKj1vfBnkPMl2C_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u901f\u51bb\u9762\u70b9",
+              "custom_cat_id": "153978369573690"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6922318900114",
+          "weight": "500",
+          "sku_id": 1584601092227768,
+          "sale_price": 740,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1542005500101",
+          "name": "\u4f73\u98df\u5c1a\u5200\u524a\u9762500g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573690",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01jCEoNa1vfBmFTjNSg_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u575a\u679c\u7092\u8d27",
+              "custom_cat_id": "153978369773784"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6924377988683",
+          "weight": "2158",
+          "sku_id": 1545620366354155,
+          "sale_price": 21800,
+          "process_detail": [],
+          "shelf_number": "1422902600101",
+          "upc_type": 0,
+          "custom_sku_id": "1422902600101",
+          "name": "\u52a0\u5dde\u539f\u91ce\u8317\u679c\u4e16\u754c\u793c\u76d22158g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773784",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201103573802\/O1CN01H735PQ1dxMRCSzkqU_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01tLl58R1vfBoewncBp_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01lkhhwI1vfBoZLzRU6_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN016y2xkF1vfBodrtRTx_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01BVR3uk1vfBodGRBwp_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6d17\u53d1\u62a4\u7406",
+              "custom_cat_id": "153978369873837"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921439805735",
+          "weight": "120",
+          "sku_id": 155175511906285,
+          "sale_price": 1600,
+          "process_detail": [],
+          "shelf_number": "12232999",
+          "upc_type": 0,
+          "custom_sku_id": "1223299900101",
+          "name": "\u6770\u58eb\u6d3e\u9501\u4eae\u5b9a\u578b\u556b\u55b1\u6c34120ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 4,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873837",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN016NY7wg1vfBoa5XXpD_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7eba\u7ec7\u54c1",
+              "custom_cat_id": "153978370173903"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6945009800685",
+          "weight": "52",
+          "sku_id": 1590658531226238,
+          "sale_price": 990,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "6507206100101",
+          "name": "\u9ebb\u5c06\u5750\u57ab\uff08\u5c0f\uff09",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173903",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201129808386\/O1CN01bfBZW52Boq0bUg2lM_!!2201129808386-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "8807246042311",
+          "weight": "595",
+          "sku_id": 15895404772214995,
+          "sale_price": 6000,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3141287300101",
+          "name": "Glasslock\u65b9\u5f62\u6392\u6c14\u76d6\u4fdd\u9c9c\u76d2900ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 7,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206631368592\/O1CN01DKNxH62DLBav8rl1R_!!2206631368592-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u98df\u54c1",
+              "custom_cat_id": "153978369973850"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "7617400098419",
+          "weight": "200",
+          "sku_id": 15877268822232239,
+          "sale_price": 2790,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1490429000101",
+          "name": "\u745e\u58eb\u5e15\u8482\u8bd7\u725b\u5976\u5de7\u514b\u529b\u5a01\u5316\u997c\u5e72160\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973850",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206614268226\/O1CN01uVQsPc2AdYdGcXc8K_!!2206614268226-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u591a\u89c4\u683c\u6c34\u996e",
+              "custom_cat_id": "156214133207229"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921975006191",
+          "weight": "7920",
+          "sku_id": 1562208274074031,
+          "sale_price": 6600,
+          "process_detail": [],
+          "shelf_number": "1050034200104",
+          "upc_type": 0,
+          "custom_sku_id": "1050034200104",
+          "name": "\u96ea\u82b1\u51b0\u9177\u542c\u88c5330ml\u516d\u542c\u88c5*4",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "156214133207229",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206614268226\/O1CN01b3vs6K2AdYdJpmYDa_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206631351473\/O1CN01q6r1lF1Mkg0c2Fwl0_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206631351473\/O1CN01O61qf51Mkg0aVzgAf_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206631351473\/O1CN016s16aq1Mkg0c2FPay_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206631351473\/O1CN01Pf23N01Mkg0eMXLr3_!!2206631351473-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u65e5\u7528",
+              "custom_cat_id": "153978369173593"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090270625",
+          "weight": "90",
+          "sku_id": 15397836735572499,
+          "sale_price": 560,
+          "process_detail": [],
+          "shelf_number": "12014049",
+          "upc_type": 0,
+          "custom_sku_id": "1201404900101",
+          "name": "Carrefour\u7eaf\u68c9\u5316\u5986\u68c980\u7247",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 9,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173593",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201134412980\/O1CN01kiTuDI1XssrdiyoFw_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206620098167\/O1CN01fpnP252ACXGxR8jqk_!!2206620098167-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206620098167\/O1CN01EcZqA62ACXGtY6GIV_!!2206620098167-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201134412980\/O1CN01xoeaoh1XsssZNCmCT_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206595621293\/O1CN015s2fHg1LQEiTaMS0t_!!2206595621293-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5ba0\u7269\u98df\u54c1",
+              "custom_cat_id": "154650562768248"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921959201727",
+          "weight": "260",
+          "sku_id": 1575367215075614,
+          "sale_price": 1590,
+          "process_detail": [],
+          "shelf_number": "1461231700101",
+          "upc_type": 0,
+          "custom_sku_id": "1461231700101",
+          "name": "\u8def\u65af\u6d88\u81ed\u997c\u5e72220g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154650562768248",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201115406636\/O1CN01H71N5Q1ytKtMXjBM5_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6587\u4f53\u7528\u54c1",
+              "custom_cat_id": "153978370073879"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901295487139",
+          "weight": "450",
+          "sku_id": 15895399222228013,
+          "sale_price": 6500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3313123000101",
+          "name": "\u7ea2\u53cc\u559c\u4e24\u62cd\u4e00\u7403\u4e52\u4e53\u7403\u62cd\u5957\u88c5",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370073879",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01aS6QnS1vfBoE6YHds_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201093280482\/O1CN01W88khv1FQnVIz56dp_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201154834326\/O1CN01WYol7O1hpLz2Q894K_!!2201154834326-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201154834326\/O1CN01hzkF5q1hpLz28ef2a_!!2201154834326-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201115406636\/O1CN01idrQ6Q1ytKtcQ8RDO_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u997c\u5e72\u7cd5\u70b9",
+              "custom_cat_id": "153978369673755"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6970432683086",
+          "weight": "202",
+          "sku_id": 15881301512211659,
+          "sale_price": 2180,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1408143000101",
+          "name": "\u7199\u5fa1\u56ed\u9ed1\u829d\u9ebb\u7cd5182g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673755",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01BLY5551vfBo02LzfM_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u98df\u54c1",
+              "custom_cat_id": "153978369973850"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "653314503486",
+          "weight": "168",
+          "sku_id": 15869374162235221,
+          "sale_price": 2250,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1497005100101",
+          "name": "\u514b\u6069\u6ecb\u9ed1\u80e1\u6912\u5473\u6728\u85af\u7247150\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973850",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201107287975\/O1CN010GyiIz28mbDNdcWKg_!!2201107287975-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201147258909\/O1CN011PKY6t2FgN9evfdQA_!!2201147258909-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201086104464\/O1CN011C4cx41iqYdm82DYQ_!!2201086104464-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201147258909\/O1CN01Toof6s2FgN9bUTiwb_!!2201147258909-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201086104464\/O1CN01LaTXMZ1iqYdm8214t_!!2201086104464-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u81a8\u5316\u98df\u54c1",
+              "custom_cat_id": "153978369773780"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6926265353399",
+          "weight": "60",
+          "sku_id": 15851240522217757,
+          "sale_price": 450,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1411319800101",
+          "name": "\u4e0a\u597d\u4f73\u9ca8\u6ce2\u6d6a\u578b\u85af\u7247\u706b\u8fa3\u547360g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773780",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206610141660\/O1CN01aJWxbw1O8K3pJdO9E_!!2206610141660-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01kt42Oj1vfBoaoC0ZX_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01FD8CCd1vfBocoKUpE_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01PMo1us1vfBodMjuMp_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01kaSxV21vfBoeKbyNN_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u575a\u679c\u7092\u8d27",
+              "custom_cat_id": "153978369773784"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6935729400258",
+          "weight": "150",
+          "sku_id": 15851224822221774,
+          "sale_price": 660,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1422240600101",
+          "name": "\u8001\u5976\u5976\u591a\u5473\u74dc\u5b50150g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773784",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201134412980\/O1CN01D4wqsa1XssroKOuO9_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u86cb\u7c7b",
+              "custom_cat_id": "15844548912238"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6913084211115",
+          "weight": "320",
+          "sku_id": 156980951807787,
+          "sale_price": 2330,
+          "process_detail": [],
+          "shelf_number": "1582200800101",
+          "upc_type": 0,
+          "custom_sku_id": "1582200800101",
+          "name": "\u795e\u4e3924\u679a\u9e4c\u9e51\u76ae\u86cb24\u679a\u88c5168g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "15844548912238",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01mFe3Sg1vfBo8JHIK5_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7535\u5b50\u914d\u4ef6",
+              "custom_cat_id": "153978370073891"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6947939102297",
+          "weight": "50",
+          "sku_id": 158754810722647,
+          "sale_price": 2850,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3002720200101",
+          "name": "\u98de\u5229\u6d66\u6807\u51c6\u87ba\u65cb8W\u5927\u5934",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 33,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370073891",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206614268226\/O1CN01eCQTBR2AdYddrhuxI_!!2206614268226-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6950885550708",
+          "weight": "2050",
+          "sku_id": 158996490622166,
+          "sale_price": 24500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3134445700101",
+          "name": "\u82cf\u6cca\u5c14\uff08SUPOR\uff09\u65b0\u9676\u517b\u751f\u7172.\u836f\u81b3\u7172TB23A1",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 5,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01OiDzwy1XssrYNJqV1_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6bcd\u5a74\u7528\u54c1",
+              "custom_cat_id": "153978370173916"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6936533000726",
+          "weight": "300",
+          "sku_id": 1587653757229286,
+          "sale_price": 5580,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1275014800101",
+          "name": "\u8fea\u58eb\u5c3c\u51b0\u96ea\u5947\u7f18\u7cfb\u5217\u513f\u7ae5\u4e8c\u5408\u4e00\u6d17\u53d1\u6d74\u9732300ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173916",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01IfRGPn1vfBo9MpRXa_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01oDaAyX1vfBoUWEYtM_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN019ICSCN1vfBoPpi8ZG_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01X6ws2E1vfBoXsm7Jz_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01uVawrr1vfBocQCWAB_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8c46\u7c7b\u6742\u7cae",
+              "custom_cat_id": "15858810402295"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923057918835",
+          "weight": "1800",
+          "sku_id": 1587119587228101,
+          "sale_price": 8980,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1460731300101",
+          "name": "\u6a80\u5c71\u6c81\u5dde\u9ec4\u5c0f\u7c731800g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "15858810402295",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN016NY7wg1vfBoa5XXpD_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7eba\u7ec7\u54c1",
+              "custom_cat_id": "153978370173903"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6945009800692",
+          "weight": "52",
+          "sku_id": 1590658527225268,
+          "sale_price": 990,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "6507209200101",
+          "name": "\u9ebb\u5c06\u5750\u57ab\uff08\u5927\uff09",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173903",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01iXvU8t1vfBmDMrMVt_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01kvsqcS1vfBmFTX9Qa_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5e38\u6e29\u719f\u98df",
+              "custom_cat_id": "153978369473673"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921144100521",
+          "weight": "200",
+          "sku_id": 15397836895591389,
+          "sale_price": 1620,
+          "process_detail": [],
+          "shelf_number": "15321001",
+          "upc_type": 0,
+          "custom_sku_id": "1532100100101",
+          "name": "\u6052\u6167\u65e9\u9910\u80a0200g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369473673",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201093280482\/O1CN011OQgKn1FQnVbYApaU_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201093280482\/O1CN01fV5iEy1FQnVaVxcUw_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201093280482\/O1CN011nEq0W1FQnVWDJc8w_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201093280482\/O1CN01T1e1qp1FQnVbER6GJ_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201081816976\/O1CN0146Ibca21P3YhiyoTS_!!2201081816976-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u98df\u54c1",
+              "custom_cat_id": "153978369173591"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090272896",
+          "weight": "236",
+          "sku_id": 1555314984062682,
+          "sale_price": 510,
+          "process_detail": [],
+          "shelf_number": "14222259",
+          "upc_type": 0,
+          "custom_sku_id": "1422225900101",
+          "name": "\u5bb6\u4e50\u798f\u7126\u7cd6\u5473\u8475\u82b1\u7c7d198\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173591",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201134412980\/O1CN01x2j5XW1XsssOudWkI_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6d17\u53d1\u62a4\u7406",
+              "custom_cat_id": "153978369873837"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6910019018276",
+          "weight": "530",
+          "sku_id": 1589880916221837,
+          "sale_price": 5900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1220032000101",
+          "name": "100\u5e74\u6da6\u53d1\u7537\u58eb\u6c34\u6da6\u6d17\u53d1\u9732400ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 10,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873837",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01ApHRrR1XssrNjvJj4_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7ea2\u9152",
+              "custom_cat_id": "153978369673747"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "8433644000051",
+          "weight": "750",
+          "sku_id": 15875563982220198,
+          "sale_price": 22500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1064303000101",
+          "name": "\u4f0a\u683c\u5a05\u8a93\u8a00\u73cd\u85cf\u7ea2\u8461\u8404\u9152750\u6beb\u5347",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 10,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673747",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01tsdyR91vfBogeaVnR_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01GFkd8A1vfBohgmNlk_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN016oNlH21vfBohN0lzR_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01iibLY21vfBohgpCNG_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01QVmQUS1vfBofDjK2O_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u98df\u54c1",
+              "custom_cat_id": "153978369173591"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090273251",
+          "weight": "272",
+          "sku_id": 1555315001063213,
+          "sale_price": 390,
+          "process_detail": [],
+          "shelf_number": "14221076",
+          "upc_type": 0,
+          "custom_sku_id": "1422107600101",
+          "name": "\u5bb6\u4e50\u798f\u9752\u8c46\uff08\u82a5\u672b\u5473\uff09250\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173591",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206614268226\/O1CN01NR4gr82AdYdaS24RP_!!2206614268226-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6d17\u53d1\u62a4\u7406",
+              "custom_cat_id": "153978369873837"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6928820010235",
+          "weight": "168",
+          "sku_id": 1589880916221847,
+          "sale_price": 9900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1224119800501",
+          "name": "\u6b27\u83b1\u96c5\u5353\u97f5\u971c\u67d3\u53d1\u971c48g*2+12ml+60ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 3,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873837",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201115406636\/O1CN01g99KUp1ytKtQFqs9c_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6942127506000",
+          "weight": "125",
+          "sku_id": 15895409452235920,
+          "sale_price": 2450,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3110700200101",
+          "name": "\u4e94\u548c\u5b9d\u53ef\u68a6\u6df1\u7897PKW6016",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01cs5vfk1vfBnwumhcO_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5e38\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "154831438106119"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923644295868",
+          "weight": "2500",
+          "sku_id": 1585737377223033,
+          "sale_price": 8000,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1506102300110",
+          "name": "\u7eaf\u7504\u8f7b\u916a\u4e73\u98ce\u5473\u9178\u725b\u4e73\u7ea2\u897f\u67da\u53e3\u5473\u74f6\u88c5230g*10",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154831438106119",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201081816976\/O1CN01gWVPmU21P3Y6F5tE8_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206745198050\/O1CN01pubBCK29KwvsCTIt4_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206745198050\/O1CN01NKIoMs29Kwvrv3Eqs_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206745198050\/O1CN01Fp4R1z29Kwvnq50jl_!!2206745198050-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5564\u9152",
+              "custom_cat_id": "153978369673742"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6948960105028",
+          "weight": "2134",
+          "sku_id": 15397836665564354,
+          "sale_price": 1510,
+          "process_detail": [],
+          "shelf_number": "10500278",
+          "upc_type": 0,
+          "custom_sku_id": "1050027800101",
+          "name": "\u54c8\u5c14\u6ee8\u51b0\u723dCAN\u542c\u88c5500ml x4",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673742",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN015d8yQE1vfBo8336wb_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01yrnjld1vfBoXp3v6e_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01CTuaia1vfBoYHdnzS_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01jRb0Sf1vfBocl2vL6_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN0149Znr51vfBocQEnXE_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8c46\u7c7b\u6742\u7cae",
+              "custom_cat_id": "15858810402295"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6948030501767",
+          "weight": "2500",
+          "sku_id": 1587119448223977,
+          "sale_price": 5850,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1460725000101",
+          "name": "\u671d\u5915\u76f8\u53a8\u6742\u7cae\u996d\uff088\u79cd\u6df7\u5408\uff092.5kg",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "15858810402295",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206620098167\/O1CN01tTh14U2ACXGp0SyP8_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7535\u6c60\u63d2\u5ea7",
+              "custom_cat_id": "154710875444027"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901826130657",
+          "weight": "12",
+          "sku_id": 1589535316222048,
+          "sale_price": 600,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3000710800101",
+          "name": "\u535712V\u78b1\u602723A\u4e00\u7c92\u88c5",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154710875444027",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206614268226\/O1CN01QGan0M2AdYdexMl0M_!!2206614268226-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921880707244",
+          "weight": "100",
+          "sku_id": 15898847572263420,
+          "sale_price": 3300,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3136245000101",
+          "name": "\u7231\u4ed5\u8fbe24\u5398\u7c73\u4e0d\u9508\u94a2\u538b\u529b\u9505\u5bc6\u5c01\u5708BJ24",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2207740170715\/O1CN01PcFXD91H9Vms0mLKY_!!2207740170715-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2207740170715\/O1CN01jcsSkU1H9VmaiIkXf_!!2207740170715-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201061580228\/O1CN01OOlgca1DYStms6xDQ_!!2201061580228-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201061580228\/O1CN01qFMOoW1DYSttDz81g_!!2201061580228-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2207827909422\/O1CN01e8GTOW2JTKKPRklBT_!!2207827909422-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u98df\u7528\u6cb9",
+              "custom_cat_id": "153978369773792"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6922130112368",
+          "weight": "460",
+          "sku_id": 15877013272249780,
+          "sale_price": 1880,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1447317100101",
+          "name": "\u592a\u592a\u4e50 \u539f\u5473\u9c9c\u5934\u9053\u7279\u7ea7\u9c9c\u9171\u6cb9 \u4e0d\u6dfb\u52a0\u751c\u5473\u5242\u3001\u9632\u8150\u5242 450ml \u96c0\u5de2\u51fa\u54c1",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773792",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206745198050\/O1CN01MZd2at29Kwv3s0xj9_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206745198050\/O1CN01tRfMZz29KwvwH9AQZ_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206745198050\/O1CN01kd7FzJ29KwvybNssR_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206614268226\/O1CN01HagbxI2AdYczAdePs_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206745198050\/O1CN01bc4xfl29KwvuhnN2v_!!2206745198050-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u536b\u751f\u5dfe",
+              "custom_cat_id": "153978369973840"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901236387191",
+          "weight": "870",
+          "sku_id": 1585808708223194,
+          "sale_price": 4670,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1264002800101",
+          "name": "\u5305\u5927\u4eba\u8f7b\u8584\u8d34\u8eab\u5185\u88e4\u578b\u6d3b\u52a8\u88e4L11\u7247",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 3,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973840",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206631352598\/O1CN01jX734V1V3vZyqaPE6_!!2206631352598-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6920467751847",
+          "weight": "100",
+          "sku_id": 15397836845585233,
+          "sale_price": 1690,
+          "process_detail": [],
+          "shelf_number": "3153207000101",
+          "upc_type": 0,
+          "custom_sku_id": "3153207000101",
+          "name": "\u514b\u6797\u83b1\u5927\u64e6\u64e6\u514b\u6797(4090140mm)",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01qRrLKx1vfBoAtli8T_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971699061068",
+          "weight": "180",
+          "sku_id": 15874525122225836,
+          "sale_price": 6900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3100208800301",
+          "name": "Vigo\u6dd1\u96c5Tritan\u5851\u6599\u676f480ml \u9759\u8c27\u84dd",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201081816976\/O1CN01u8hJ2m21P3YDmrkr2_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN016iBpYm1vfBoYg24yA_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01pSLLY41vfBoToZANc_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01TqnpGK1vfBoYfyWbJ_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u98df\u54c1",
+              "custom_cat_id": "153978369173591"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090271769",
+          "weight": "408",
+          "sku_id": 1553656413063696,
+          "sale_price": 700,
+          "process_detail": [],
+          "shelf_number": "14411073",
+          "upc_type": 0,
+          "custom_sku_id": "1441107300101",
+          "name": "\u5bb6\u4e50\u798f\u5355\u6676\u51b0\u7cd6400g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173591",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN012gBUQ21vfBmEgx1tv_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u9762\u90e8\u62a4\u7406",
+              "custom_cat_id": "153978369873820"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6927006117454",
+          "weight": "13",
+          "sku_id": 1543467803552978,
+          "sale_price": 19300,
+          "process_detail": [],
+          "shelf_number": "12002085",
+          "upc_type": 0,
+          "custom_sku_id": "1200208500101",
+          "name": "\u767e\u96c0\u7f9a\u4e09\u751f\u82b1\u73b2\u73d1\u7389\u6da6\u6c14\u57ab\u60a6\u5bb9\u971c(\u81ea\u7136\u8272)100g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873820",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201103573802\/O1CN016j4yLk1dxMRJ9rSvi_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206614268226\/O1CN01bNYxKo2AdYdgYd4rw_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01JOR5Zq1vfBoONRcA7_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01GxkEww1vfBoWQlJ4H_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01K41zZZ1vfBoT4iy5x_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u98df\u54c1",
+              "custom_cat_id": "153978369173591"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090270809",
+          "weight": "130",
+          "sku_id": 15397836745573753,
+          "sale_price": 2290,
+          "process_detail": [],
+          "shelf_number": "14201049",
+          "upc_type": 0,
+          "custom_sku_id": "1420104900101",
+          "name": "\u5bb6\u4e50\u798f\u6c99\u55f2\u5473\u725b\u8089\u5e72120\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173591",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201134412980\/O1CN01wWaDtX1Xsss9anHgG_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921880772006",
+          "weight": "3600",
+          "sku_id": 15877012372229303,
+          "sale_price": 69900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3136097300101",
+          "name": "\u7231\u4ed5\u8fbe\u7504\u5de7\u4e09\u5c42\u94a2\u538b\u529b\u5feb\u950522cmYC22A2Q7.6L",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206745198050\/O1CN01qwmmPB29KwvUuV02n_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01YtFcwh1vfBob9mvp6_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01EbE67N1vfBob9nwBG_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01msDPeK1vfBoiRBUWL_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN012Jg9G81vfBoaBIGW0_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u6bcd\u5a74\u7528\u54c1",
+              "custom_cat_id": "153978370173916"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6917878059525",
+          "weight": "480",
+          "sku_id": 1587717005221141,
+          "sale_price": 11900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1433302500101",
+          "name": "\u96c0\u5de2A2\u5988\u5988\u5b55\u4ea7\u5987\u914d\u65b9\u5976\u7c89\u8f7b\u4eab\u88c5350\u514b\u72ec\u7acb\u5305\u88c5",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 11,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173916",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01mgolLi1vfBo1OuIMB_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01eU32MB1vfBnw6Krdm_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01N2ceku1vfBnqPoSVS_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN018mImE71vfBo1zYnZa_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01GHUWBp1vfBo315VhI_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5ba0\u7269\u98df\u54c1",
+              "custom_cat_id": "154650562768248"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6917878054704",
+          "weight": "45",
+          "sku_id": 158641322722803,
+          "sale_price": 1500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1461200900101",
+          "name": "\u73cd\u81f4\u732b\u9171\u4e4b\u543b\u541e\u62ff\u9c7c\u8089\u6ce5\uff08\u6dfb\u52a0\u8292\u679c\uff09\u8f6f\u5305\u88c5\u7f50\u59344x10g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 28,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154650562768248",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206631351473\/O1CN01m7veKy1MkfzoUkUf4_!!2206631351473-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5e38\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "154831438106119"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923644295899",
+          "weight": "2200",
+          "sku_id": 1585819277227055,
+          "sale_price": 5700,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1506529700110",
+          "name": "\u8499\u725b\u771f\u8c37\u7c92\u8c37\u7269\u725b\u5976200ml*10",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "154831438106119",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206610141660\/O1CN01PFJt8c1O8K3esHCq8_!!2206610141660-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "153978369373642"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6934665092367",
+          "weight": "231",
+          "sku_id": 1543478142910388,
+          "sale_price": 690,
+          "process_detail": [],
+          "shelf_number": "15011095",
+          "upc_type": 0,
+          "custom_sku_id": "1501109500101",
+          "name": "\u8499\u725b\u6b27\u5f0f\u70ad\u70e7\u98ce\u5473\u53d1\u9175\u4e73\u9999\u6d53\u8292\u679c\u5473231g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373642",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201081816976\/O1CN017gWeRA21P3YHJf9nt_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206614268226\/O1CN01S9s8Bj2AdYdhzwB0i_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206614268226\/O1CN018Qn4Kq2AdYdjXMs2I_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206614268226\/O1CN01BJv8mO2AdYdjXM8Ko_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206614268226\/O1CN01mp8smx2AdYdnAISDG_!!2206614268226-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u8fdb\u53e3",
+              "custom_cat_id": "153978369173592"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "3270190194903",
+          "weight": "550",
+          "sku_id": 15397836145495641,
+          "sale_price": 2080,
+          "process_detail": [],
+          "shelf_number": "14912123",
+          "upc_type": 0,
+          "custom_sku_id": "1491212300101",
+          "name": "\u5bb6\u4e50\u798f\u674e\u5b50\u9171370ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173592",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN016WyWn41vfBoa7CEcT_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN015xQrZq1vfBofJPqjB_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206631351473\/O1CN01WNwFBM1Mkg0fPWxrr_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01k0RcgQ1vfBoc6tGja_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01Rv45bk1vfBoeWuQa0_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u536b\u751f\u5dfe",
+              "custom_cat_id": "153978369973840"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6922872789347",
+          "weight": "350",
+          "sku_id": 157078350807258,
+          "sale_price": 1820,
+          "process_detail": [],
+          "shelf_number": "1263294700101",
+          "upc_type": 0,
+          "custom_sku_id": "1263294700101",
+          "name": "\u500d\u8212\u7279\u67d4\u68c9\u65e5\u591c\u7528\u7ec4\u5408\u536b\u751f\u5dfe20\u7247",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973840",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201115406636\/O1CN01nPagrx1ytKtVpQ5TA_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6950885550562",
+          "weight": "1800",
+          "sku_id": 15898847912269294,
+          "sale_price": 17900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3134246500101",
+          "name": "\u82cf\u6cca\u5c14\u4eae\u5f69\u4e0d\u9508\u94a2\u6c64\u950520cm",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201105375378\/O1CN01SnE2hc1pbAdvV3sDU_!!2201105375378-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01yoPMs01vfBoaGQes4_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201105375378\/O1CN01lxplGl1pbAe0NtvR1_!!2201105375378-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01K6trEI1vfBoUVsClX_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201105375378\/O1CN01dJuhZd1pbAe5G8uzY_!!2201105375378-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u78b3\u9178\u996e\u6599",
+              "custom_cat_id": "153978369573727"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6972020771175",
+          "weight": "480",
+          "sku_id": 15897960022254,
+          "sale_price": 550,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1003005800101",
+          "name": "\u5317\u51b0\u6d0bPET\u6854\u6c41\u6c7d\u6c34480ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573727",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01YmljOz1vfBnqha6yY_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6955651803248",
+          "weight": "130",
+          "sku_id": 1549008055062061,
+          "sale_price": 6090,
+          "process_detail": [],
+          "shelf_number": "3141197700101",
+          "upc_type": 0,
+          "custom_sku_id": "3141197700101",
+          "name": "\u5b89\u4e70\u4fbf\u5f53\u5305\u73bb\u7483\u4fdd\u9c9c\u76d2\u4e24\u4ef6\u5957550+830\u6beb\u5347",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 13,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201081816976\/O1CN01EkrygK21P3YEiyT0i_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01Blbmjm1vfBogJO1rN_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01q7FUFm1vfBodYKG0H_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN017kescC1vfBobQjzfb_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01dK2Oap1vfBoZQz4Ea_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u65e5\u7528",
+              "custom_cat_id": "153978369173593"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6943524511758",
+          "weight": "520",
+          "sku_id": 15397836735572027,
+          "sale_price": 1220,
+          "process_detail": [],
+          "shelf_number": "11061016",
+          "upc_type": 0,
+          "custom_sku_id": "1106101600101",
+          "name": "Carrefour\u53a8\u623f\u91cd\u6cb9\u6c61\u6e05\u6d01\u5242500\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173593",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01sqrm571XssrbZlZtK_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7ea2\u9152",
+              "custom_cat_id": "153978369673747"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "3468000052486",
+          "weight": "1145",
+          "sku_id": 15875563772217649,
+          "sale_price": 17200,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1063025300101",
+          "name": "\u5a01\u8d5b\u5e1d\u65af\u62c9\u7279\u5e72\u7ea2\u8461\u8404\u9152750\u6beb\u5347",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673747",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201103573802\/O1CN01bAIrES1dxMRIjk30S_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201103573802\/O1CN01Ex5hnC1dxMRHL4CY0_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201103573802\/O1CN01oNoCiV1dxMRFR5MG3_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201147258909\/O1CN01My8wLv2FgN9BzybqF_!!2201147258909-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206595621133\/O1CN01hpl25Y1KExL2Q10Gk_!!2206595621133-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53e3\u8154\u62a4\u7406",
+              "custom_cat_id": "153978369873826"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901890800470",
+          "weight": "170",
+          "sku_id": 15877012372229294,
+          "sale_price": 1420,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1240815900101",
+          "name": "\u4e24\u9762\u9488\u4e2d\u836f\u5f3a\u6548\u62a4\u9f88\u7259\u818f140g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873826",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206620098167\/O1CN01JMtKsl2ACXFoLXoIF_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7ea2\u9152",
+              "custom_cat_id": "153978369673747"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "7808765704019",
+          "weight": "1206",
+          "sku_id": 15858169172241519,
+          "sale_price": 8900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1065221600101",
+          "name": "\u627f\u8bfa\u5a01\u8d5b\u5e1d\u65af\u897f\u62c9\u6885\u6d1b\u5e72\u7ea2\u8461\u8404\u9152750\u6beb\u5347",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673747",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01VdcEAt1vfBmD88CFU_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u901f\u51bb\u9762\u70b9",
+              "custom_cat_id": "153978369573690"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6931023210029",
+          "weight": "500",
+          "sku_id": 15397836885590683,
+          "sale_price": 650,
+          "process_detail": [],
+          "shelf_number": "15403016",
+          "upc_type": 0,
+          "custom_sku_id": "1540301600101",
+          "name": "\u8c46\u8c46\u53a8\u6d53\u8c46\u6d46\uff08\u539f\u5473\uff09500ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573690",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01PPkwVY1vfBoUIAPcM_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5feb\u901f\u6d88\u8017\u54c1",
+              "custom_cat_id": "153978370173900"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6935593200329",
+          "weight": "110",
+          "sku_id": 15895408062219837,
+          "sale_price": 1360,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3143301500101",
+          "name": "\u5bb6\u6765\u7eb3\u4f18\u9009\u5bc6\u5b9e\u888b17.8cmX20.3cmX25pcs",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173900",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206631351473\/O1CN01y2sO5v1Mkg082hBpl_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206631351473\/O1CN01r0qXh21Mkg0CtqycG_!!2206631351473-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7c73",
+              "custom_cat_id": "153978369773787"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6944910336153",
+          "weight": "5001",
+          "sku_id": 15877013672257529,
+          "sale_price": 4330,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1455019700101",
+          "name": "\u798f\u4e34\u95e8\u5bd2\u5730\u4e1c\u5317\u957f\u7c92\u99995kg",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773787",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206620098167\/O1CN0122B1XA2ACXFpeuMbz_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u98df\u54c1",
+              "custom_cat_id": "153978369973850"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "7610062041809",
+          "weight": "100",
+          "sku_id": 157191335907491,
+          "sale_price": 3180,
+          "process_detail": [],
+          "shelf_number": "1490309400101",
+          "upc_type": 0,
+          "custom_sku_id": "1490309400101",
+          "name": "\u4e07\u6069\u5229\u5de7\u5ba2\u8d1d\u53ef\u53ef\u6155\u65af\u5de7\u514b\u529b\u5473\u5939\u5fc3\u997c\u5e72100g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973850",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201134412980\/O1CN018dqZeC1XssrXh5QQO_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN013gKMlq1vfBodYZ8T0_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN0182ydnJ1vfBob9l39b_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206631351473\/O1CN01Ygguee1Mkg0gqzTR0_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01XoL1tS1vfBodYaH96_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u51b2\u8c03\/\u4fdd\u5065\u54c1",
+              "custom_cat_id": "153978369673750"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6953042700534",
+          "weight": "408",
+          "sku_id": 15718172130715695,
+          "sale_price": 2670,
+          "process_detail": [],
+          "shelf_number": "1431102700101",
+          "upc_type": 0,
+          "custom_sku_id": "1431102700101",
+          "name": "\u53ef\u6bd4\u53ef\u901f\u5496\u5561408g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673750",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201107287975\/O1CN01QCO1R128mbDhoJOgL_!!2201107287975-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u9152\u6c34",
+              "custom_cat_id": "153978369973844"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "4004591037441",
+          "weight": "1000",
+          "sku_id": 15875576832213295,
+          "sale_price": 3580,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1051015800101",
+          "name": "\u51ef\u6492\u9ed1\u5564",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973844",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201129808386\/O1CN01q2cr722Boq0IIFRY8_!!2201129808386-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u516b\u5b9d\u7ca5\/\u7f50\u5934",
+              "custom_cat_id": "153978369473661"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921587212799",
+          "weight": "168",
+          "sku_id": 1587563263223474,
+          "sale_price": 1350,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1471516700101",
+          "name": "\u6797\u5bb6\u94fa\u5b50\u9999\u8fa3\u9ec4\u82b1\u9c7c168g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369473661",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01QrjNio1XssrYOexRw_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201103573802\/O1CN01jv4k7Q1dxMRiVz9N5_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201103573802\/O1CN01ikqFGZ1dxMRmPbc3c_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201103573802\/O1CN01WbPbRk1dxMRk5007F_!!2201103573802-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201103573802\/O1CN01UPEDuT1dxMRmPbgDi_!!2201103573802-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7cd6\u5de7\u679c\u51bb",
+              "custom_cat_id": "153978369673766"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923450664414",
+          "weight": "40",
+          "sku_id": 15877262122239316,
+          "sale_price": 1020,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1425100300101",
+          "name": "5\u5f39\u7acb\u65b9\u53e3\u9999\u7cd6\u84dd\u8393\u9178\u5976\u547340\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 5,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673766",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206620098167\/O1CN01v02bg22ACXFs7DO7P_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u9152\u6c34",
+              "custom_cat_id": "153978369973844"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "3014400013437",
+          "weight": "1340",
+          "sku_id": 15875570232211378,
+          "sale_price": 9900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1073215200101",
+          "name": "\u5e15\u7075\u987f\u5a01\u58eb\u5fcc700ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973844",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2207701044676\/O1CN01v7D2C91kPeaz5Sqli_!!2207701044676-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u901f\u51bb\u9762\u70b9",
+              "custom_cat_id": "153978369573690"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6955797200543",
+          "weight": "268",
+          "sku_id": 1585568897223632,
+          "sale_price": 2060,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1553277700101",
+          "name": "\u5fc5\u54c1\u9601\u97e9\u5f0f\u6ce1\u83dc\u8106\u76ae\u714e\u997a250g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573690",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01GQLl5A1vfBmEvHLqv_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "153978369373642"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901209343056",
+          "weight": "481",
+          "sku_id": 15397836865588567,
+          "sale_price": 760,
+          "process_detail": [],
+          "shelf_number": "15002078",
+          "upc_type": 0,
+          "custom_sku_id": "1500207800101",
+          "name": "\u5149\u660e\u7eaf\u767d\u9178\u5976460g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373642",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206607145647\/O1CN01HG5AJl1raNBVcvufh_!!2206607145647-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921880783316",
+          "weight": "3600",
+          "sku_id": 15898847272257201,
+          "sale_price": 102500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3131095400101",
+          "name": "ASD\u6676\u77f3\u7cfb\u5217\u78c1\u901a\u7092\u950532cm",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01QJrIVl1vfBnlNJPYD_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5e38\u6e29\u5976\u5236\u54c1",
+              "custom_cat_id": "153978369373628"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923644277048",
+          "weight": "3200",
+          "sku_id": 15858193482212354,
+          "sale_price": 4200,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1524022200112",
+          "name": "\u8499\u725b\u5229\u4e50\u5305\u8c37\u7c92\u65e9\u9910\u7ea2\u8c37\u725b\u5976250ml*12",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373628",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN019C3wwE1vfBo9tMOEI_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "153978369373642"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6932571026384",
+          "weight": "1020",
+          "sku_id": 1562042515072025,
+          "sale_price": 2690,
+          "process_detail": [],
+          "shelf_number": "1500109600101",
+          "upc_type": 0,
+          "custom_sku_id": "1500109600101",
+          "name": "\u5473\u5168\u7b80\u5355\u70b9\u98ce\u5473\u53d1\u9175\u4e73\uff08\u539f\u5473\uff091000g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373642",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01EfjIJq1vfBoe9hjOH_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7cd6\u5de7\u679c\u51bb",
+              "custom_cat_id": "153978369673766"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6911316870079",
+          "weight": "45",
+          "sku_id": 159116730622211,
+          "sale_price": 880,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1424003100101",
+          "name": "\u963f\u5c14\u5351\u65af\u81ea\u7136\u6e05\u6da6\u7cd6\u67e0\u6aac\u547345\u514b\u7eb8\u76d2",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673766",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201134412980\/O1CN01GkvLM21Xssrf3xjHw_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u901f\u51bb\u9762\u70b9",
+              "custom_cat_id": "153978369573690"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6908791201382",
+          "weight": "320",
+          "sku_id": 1587728442223395,
+          "sale_price": 2470,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1556597200101",
+          "name": "\u4e09\u5168\u679c\u7136\u7231\u9999\u6a59+\u8349\u8393\u53cc\u62fc\u7ec4\u5408\u88c5320\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573690",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206631352598\/O1CN01pCp7kq1V3vZfqCbHa_!!2206631352598-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8eab\u4f53\u62a4\u7406",
+              "custom_cat_id": "153978369873833"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6935442248663",
+          "weight": "115",
+          "sku_id": 1587561098224481,
+          "sale_price": 3190,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1213009500101",
+          "name": "\u5b89\u5b89\u91d1\u7eaf\u6ecb\u517b\u7f8e\u80a4\u6a44\u6984\u6cb9105ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873833",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201139861459\/O1CN01Ogocxr1MeGRzDwiP8_!!2201139861459-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206631351473\/O1CN01Dbof2j1Mkg0YWOHsE_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01aClEgB1vfBobe72Vy_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01hkKrul1vfBodcZose_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN017LffJD1vfBoZhgsms_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53e3\u8154\u62a4\u7406",
+              "custom_cat_id": "153978369873826"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901070608353",
+          "weight": "60",
+          "sku_id": 1585839422223805,
+          "sale_price": 4530,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1240704600101",
+          "name": "\u4e91\u5357\u767d\u836f\u513f\u7ae5\u7259\u818f\u6843\u5b50\u679c\u833660g\uff08\u829d\u9ebb\u8857\uff09",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 23,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873826",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201115406636\/O1CN01PE5Uu01ytKtUOGimV_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6942127512964",
+          "weight": "158",
+          "sku_id": 15895406272247502,
+          "sale_price": 3190,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3110899900101",
+          "name": "\u4e94\u548c\u5b9d\u53ef\u68a6\u5934\u578b\u76d8PKSD2916",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206620098167\/O1CN01pe3RgF2ACXFdk46ei_!!2206620098167-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201093280482\/O1CN01FAFwPT1FQnVRR0Ib1_!!2201093280482-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201176714854\/O1CN01D529781ljB6ZRGTTr_!!2201176714854-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201176714854\/O1CN018TuGtG1ljB6bkh2m3_!!2201176714854-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u8c03\u5473",
+              "custom_cat_id": "153978369773797"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090275347",
+          "weight": "419",
+          "sku_id": 1587573711222151,
+          "sale_price": 880,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1445110900101",
+          "name": "\u5bb6\u4e50\u798f\u8fa3\u6912\u6cb9200ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369773797",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206631351473\/O1CN016zIlWS1Mkg04odb4j_!!2206631351473-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01dVzkio1vfBoXp3zMo_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01IPBjpY1vfBoYRBnau_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN019x8Pkk1vfBocl3Byc_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01H5ESwt1vfBocl33fL_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8c46\u7c7b\u6742\u7cae",
+              "custom_cat_id": "15858810402295"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6924258904900",
+          "weight": "390",
+          "sku_id": 1587119458224244,
+          "sale_price": 1670,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1460703400101",
+          "name": "\u4eac\u835f\u5802\u6709\u673a\u82b1\u751f\u7c73390g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "15858810402295",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206631351473\/O1CN01OBPI2P1MkfzScvgHg_!!2206631351473-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5feb\u901f\u6d88\u8017\u54c1",
+              "custom_cat_id": "153978370173900"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6942127563874",
+          "weight": "200",
+          "sku_id": 15397836775577650,
+          "sale_price": 860,
+          "process_detail": [],
+          "shelf_number": "3118319400101",
+          "upc_type": 0,
+          "custom_sku_id": "3118319400101",
+          "name": "6.75\\\uff0817cm\uff09\u5706\u70ed\u57ab 15 \/ \u4e2a",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 8,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173900",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201134412980\/O1CN01JJRSzV1XssrYOnUFt_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u7535\u5b50\u914d\u4ef6",
+              "custom_cat_id": "153978370073891"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6947939102532",
+          "weight": "55",
+          "sku_id": 15397836295518841,
+          "sale_price": 2850,
+          "process_detail": [],
+          "shelf_number": "30027247",
+          "upc_type": 0,
+          "custom_sku_id": "3002724700101",
+          "name": "\u98de\u5229\u6d66\u6807\u51c6\u87ba\u65cb\u8282\u80fd\u706f8W\u5c0f\u5934",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370073891",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01qMqlDJ1vfBmHYPZbJ_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5feb\u901f\u6d88\u8017\u54c1",
+              "custom_cat_id": "153978370173900"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6923074051256",
+          "weight": "100",
+          "sku_id": 15888435872215218,
+          "sale_price": 1390,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3120218000101",
+          "name": "\u7f8e\u4e3d\u96c5\u7530\u56ed\u5370\u8c61\u7279\u539a\u578b\u7eb8\u676f50\u53ea248ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 23,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173900",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201081816976\/O1CN01kD92iD21P3YDRQEPy_!!2201081816976-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206610141660\/O1CN01xXZynK1O8K4crkawr_!!2206610141660-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206610141660\/O1CN01cCrWnP1O8K4cDbuzg_!!2206610141660-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206610141660\/O1CN01QTX67S1O8K4dZi7Ob_!!2206610141660-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206610141660\/O1CN01SrrRRX1O8K4cDcaZ9_!!2206610141660-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53a8\u623f\u7528\u54c1",
+              "custom_cat_id": "153978369973858"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6901294400597",
+          "weight": "470",
+          "sku_id": 1587570375225557,
+          "sale_price": 1880,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1107028800101",
+          "name": "\u5bb6\u5b89\u7c73\u7cbe\u534e\u9910\u5177\u51c0",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973858",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206610141660\/O1CN01op49SJ1O8K48LBhzB_!!2206610141660-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u83cc\u83c7\u5e72\u8d27",
+              "custom_cat_id": "158588104722111"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6951713600053",
+          "weight": "295",
+          "sku_id": 15877270722274765,
+          "sale_price": 7500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1460329200101",
+          "name": "\u5bcc\u660c\u9999\u83c7250g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "158588104722111",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01lnCN6r1vfBnotLx4x_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5feb\u901f\u6d88\u8017\u54c1",
+              "custom_cat_id": "153978370173900"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6921988338043",
+          "weight": "1500",
+          "sku_id": 15852797782229377,
+          "sale_price": 5000,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3144592100101",
+          "name": "\u53cc\u67aa\u52a0\u539a\u7af9\u7827\u677f38282.5cm",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173900",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01bVD12K1vfBoahGNQD_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6950885542185",
+          "weight": "4300",
+          "sku_id": 159065850622637,
+          "sale_price": 39800,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3139022200101",
+          "name": "\u82cf\u6cca\u5c14\u6676\u5f69\u4e24\u4ef6\u5957TP1502K",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201134412980\/O1CN016wh4k21Xssrg7DSMj_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206745198050\/O1CN01G0yfm829KwvzJ14KO_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206745198050\/O1CN01xWS7ie29Kwvskp2Q1_!!2206745198050-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2206745198050\/O1CN01jB84fL29Kwvv9wKYM_!!2206745198050-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53e3\u8154\u62a4\u7406",
+              "custom_cat_id": "153978369873826"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6933179260163",
+          "weight": "91",
+          "sku_id": 1587646217221117,
+          "sale_price": 1930,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1241095600101",
+          "name": "\u6781\u7b80\u751f\u6d3b\u5b9e\u60e0\u88c5\u7259\u52374\u652f",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 56,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873826",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201107287975\/O1CN016P1PCF28mbDnRIZuU_!!2201107287975-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01424Wrk1vfBobncRO2_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206614268226\/O1CN01GTy4z92AdYdm5uItZ_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201056916199\/O1CN01v0vR391vfBoW2mKca_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01jfgNzb1vfBoZOoo1y_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u9762\u90e8\u62a4\u7406",
+              "custom_cat_id": "153978369873820"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6915324847023",
+          "weight": "50",
+          "sku_id": 1587560584226897,
+          "sale_price": 6500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1211431900101",
+          "name": "\u59ae\u7ef4\u96c5\u51dd\u6c34\u6d3b\u5f69\u51dd\u973250ml",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873820",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201056916199\/O1CN01NGxThA1vfBo4AloD9_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN014QB8RK1vfBobZ5jIi_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2206614268226\/O1CN01FRuyyz2AdYdljmB9e_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01jImMGC1vfBodWZLTY_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u51b2\u8c03\/\u4fdd\u5065\u54c1",
+              "custom_cat_id": "153978369673750"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6920420100262",
+          "weight": "678",
+          "sku_id": 1587626440224234,
+          "sale_price": 2600,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1439122800101",
+          "name": "\u5357\u65b9\u9633\u5149\u4e2d\u8001\u5e74\u8c46\u5976\u7c89600g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369673750",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201115406636\/O1CN01F9RtND1ytKtUAInin_!!2201115406636-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5c45\u5bb6\u767e\u8d27",
+              "custom_cat_id": "153978370173908"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6950885520244",
+          "weight": "4850",
+          "sku_id": 15898847502262090,
+          "sale_price": 60900,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3136021400101",
+          "name": "\u82cf\u6cca\u5c14\u84dd\u773c\u4e0d\u9508\u94a2\u538b\u529b\u950524cm",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173908",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201123741198\/O1CN014a193a1Kij5V4utxd_!!2201123741198-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201171857797\/O1CN01MRr1BH27T4ie6P6Y6_!!2201171857797-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201171857797\/O1CN01LPsL7S27T4ip9MoOz_!!2201171857797-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2201171857797\/O1CN01eOqJCW27T4imZMkia_!!2201171857797-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201171857797\/O1CN01dV4QFy27T4ioLXgl9_!!2201171857797-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "153978369373642"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6907992104508",
+          "weight": "800",
+          "sku_id": 15877015312224105,
+          "sale_price": 1500,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1502007400101",
+          "name": "\u4f0a\u5229\u4e1d\u6ed1\u829d\u58eb\u98ce\u5473\u53d1\u9175\u4e73 150g*5\u888b\uff08\u9884\u552e\uff09",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373642",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206620098167\/O1CN01VxSl7Y2ACXFlyyHRe_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u8fdb\u53e3\u98df\u54c1",
+              "custom_cat_id": "153978369973850"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "9002975319515",
+          "weight": "200",
+          "sku_id": 1585126822224685,
+          "sale_price": 1990,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1490600100101",
+          "name": "\u54c8\u745e\u5b9d\u6e05\u65b0\u67e0\u6aac\u53ef\u4e50\u5473\u8f6f\u7cd6200\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 3,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369973850",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2206614268226\/O1CN01a81DJu2AdYdP233Om_!!2206614268226-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201154834326\/O1CN01p24k3Y1hpLz5EQ01B_!!2201154834326-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201154834326\/O1CN01nvrC551hpLzAZI1Yc_!!2201154834326-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201154834326\/O1CN01keaHL01hpLz7o5edU_!!2201154834326-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i3\/2201154834326\/O1CN01KNCH2f1hpLz8szE2H_!!2201154834326-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5bb6\u4e50\u798f\u98df\u54c1",
+              "custom_cat_id": "153978369173591"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6971090271028",
+          "weight": "115",
+          "sku_id": 1553656416063747,
+          "sale_price": 260,
+          "process_detail": [],
+          "shelf_number": "14130031",
+          "upc_type": 0,
+          "custom_sku_id": "1413003100101",
+          "name": "\u5bb6\u4e50\u798f\u9c9c\u7c73\u997c105\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369173591",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01tQqL0g1XssrZduOtm_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u5976\u5236\u54c1",
+              "custom_cat_id": "153978369373638"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6907992101408",
+          "weight": "885",
+          "sku_id": 15397836875589134,
+          "sale_price": 2030,
+          "process_detail": [],
+          "shelf_number": "15030012",
+          "upc_type": 0,
+          "custom_sku_id": "1503001200101",
+          "name": "\u4f0a\u5229\u7545\u8f7b\u516b\u8fde\u676f\u539f\u5473100g",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373638",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2206620098167\/O1CN01UKOAW92ACXFwCmXjB_!!2206620098167-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u5feb\u901f\u6d88\u8017\u54c1",
+              "custom_cat_id": "153978370173900"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6934076208487",
+          "weight": "190",
+          "sku_id": 1588843547227866,
+          "sale_price": 1790,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "3116493100101",
+          "name": "\u4e09\u6708\u4e09\u96d5\u523b\u7af9\u7b77ZK0591",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 17,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978370173900",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01bHFegs1vfBo5ZyPn8_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01SFCW1A1vfBoceYh7A_!!2201056916199-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201056916199\/O1CN01yuzrTg1vfBofIiTqt_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u9762\u90e8\u62a4\u7406",
+              "custom_cat_id": "153978369873820"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6947991260096",
+          "weight": "143",
+          "sku_id": 1587555787228191,
+          "sale_price": 7550,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1210003100101",
+          "name": "\u6625\u590f\u82ac\u5170\u6d77\u8393\u679c\u6c28\u57fa\u9178\u6e29\u548c\u6d01\u9762\u818f120\u514b",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873820",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i1\/2207740170715\/O1CN013H5XWo1H9Vm8B7ddN_!!2207740170715-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u679c\u6c41",
+              "custom_cat_id": "153978369573721"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "8997212611013",
+          "weight": "1090",
+          "sku_id": 15851218922215238,
+          "sale_price": 2380,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1018105500101",
+          "name": "\u4f73\u4e50\u6930\u5b50\u6c341L",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369573721",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201129808386\/O1CN014sFvso2Boq0FGCebR_!!2201129808386-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01zhsmFs1Xsssb5Aiua_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN018LOkyT1XsssceZCaB_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i2\/2201134412980\/O1CN01TnrG4I1XsssZ8bQjz_!!2201134412980-0-eleretail.jpg"
+            },
+            {
+              "is_master": 0,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201134412980\/O1CN01e5aseu1XssseKoVfN_!!2201134412980-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 0,
+          "preparation_time": null,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u53e3\u8154\u62a4\u7406",
+              "custom_cat_id": "153978369873826"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6953028210026",
+          "weight": "35",
+          "sku_id": 1587643357223639,
+          "sale_price": 960,
+          "process_detail": [],
+          "shelf_number": null,
+          "upc_type": 0,
+          "custom_sku_id": "1241425100101",
+          "name": "\u4e50\u76caHapee\u7259\u5237\u5b63\u8282\u7cfb\u52172\u652f",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 29,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369873826",
+          "status": "1",
+          "sale_step": 0
+        },
+        {
+          "sale_unit": "",
+          "weight_flag": 2,
+          "photos": [
+            {
+              "is_master": 1,
+              "url": "https:\/\/img.alicdn.com\/imgextra\/i4\/2201056916199\/O1CN01f1WIBf1vfBnvWwc9S_!!2201056916199-0-eleretail.jpg"
+            }
+          ],
+          "sku_property": [],
+          "production_addr3": "",
+          "production_addr1": "",
+          "production_addr2": "",
+          "is_in_activity": 1,
+          "preparation_time": 0,
+          "process_type": 0,
+          "summary": "",
+          "custom_cat_list": [
+            {
+              "custom_cat_name": "\u4f4e\u6e29\u4e73\u9178\u83cc",
+              "custom_cat_id": "153978369373642"
+            }
+          ],
+          "preminus_weight": 0,
+          "upc": "6934665091452",
+          "weight": "362",
+          "sku_id": 1543478141910382,
+          "sale_price": 1750,
+          "process_detail": [],
+          "shelf_number": "15030140",
+          "upc_type": 0,
+          "custom_sku_id": "1503014000101",
+          "name": "\u51a0\u76ca\u4e73\u9ea6\u916a\u4e73\u98ce\u5473\u53d1\u9175\u4e73\u539f\u5473100gx3",
+          "market_price": 0,
+          "prescription_type": "",
+          "left_num": 0,
+          "need_ice": "0",
+          "minimum": 0,
+          "custom_cat_ids": "153978369373642",
+          "status": "1",
+          "sale_step": 0
+        }
+      ]
+    }
+  },
+  "cmd": "resp.sku.list",
+  "version": "3",
+  "timestamp": 1592380763,
+  "ticket": "A3199129-0085-4BEE-AB12-AF100D26A026",
+  "source": "37943",
+  "sign": "977AACB1CC5344E905334A0E61FF9973",
+  "encrypt": ""
+}
